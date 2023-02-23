@@ -20,6 +20,14 @@ class MyDocument extends Document {
             alignItems: 'center'}}>
           <Main />
           <NextScript />
+          <footer style={{
+                marginTop: 10,
+                fontWeight: 'bold',
+                color: 'white'
+          }}>
+            &#169; Lista 'To Do', 2022
+          </footer>
+
         </body>
       </Html>
     )
