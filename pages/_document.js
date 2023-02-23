@@ -25,7 +25,7 @@ class MyDocument extends Document {
                 fontWeight: 'bold',
                 color: 'white'
           }}>
-            &#169; Lista 'To Do', 2022
+            &#169; Lista 'To Do', 2023
           </footer>
 
         </body>
