@@ -1,0 +1,37 @@
+.titulo{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    margin: .8em 0;
+}
+
+.container{
+    padding-top: 0.5rem;
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 700px;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 1px 10px 10px black;
+}
+
+.atividade{
+    width: 200px;
+    height:30px;
+
+    font-size: 24px;
+    text-align: center;
+
+    border: 3px solid black;
+}
+
+.descricao{
+    color: red;
+    font-size:12px;
+    font-weight: bold;
+    margin: .8em 0;
+}
